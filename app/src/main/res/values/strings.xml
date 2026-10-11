@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DASY VPN</string>
+
+    <string name="notif_channel_name">سرویس VPN</string>
+    <string name="notif_channel_desc">اعلان هنگام فعال بودن اتصال VPN</string>
+    <string name="notif_title">DASY VPN</string>
+    <string name="notif_text">اتصال برقرار است</string>
+</resources>
